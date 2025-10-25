@@ -70,8 +70,3 @@ Prerequisites
 - Memory-efficient HashMap-based storage
 - Real-time calculation updates
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Built with ❤️ for data-driven social media insights**
