@@ -34,17 +34,6 @@ Architecture
 - Sorting Algorithm: Custom `UserMapComparator` for multi-attribute user ranking
 - UI Framework: Java Swing for cross-platform desktop compatibility
 
-Core Components
-
-├── analytics/
-│   ├── AnalysisHelper.java      # Main analytics engine with calculation methods
-│   └── UserMapComparator.java   # Custom comparator for user ranking
-├── data/
-│   └── DataStore.java           # Singleton data management layer
-└── model/
-    ├── User.java                # User entity model
-    ├── Post.java                # Post entity model
-    └── Comment.java             # Comment entity model
 
 💡 Use Cases
 
