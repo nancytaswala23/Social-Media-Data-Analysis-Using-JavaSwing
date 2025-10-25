@@ -1,6 +1,8 @@
 Social Media Analytics Dashboard 📊
 A comprehensive Java-based analytics tool that provides deep insights into social media user behavior and engagement patterns through advanced data analysis and visualization.
 
+VISUALIZATION LINK:file:///D:/AED/Social%20Media%20Data%20Analysis%20Using%20JavaSwing/social-media-analytics-viz.html
+
 🎯 Overview
 This project implements a robust social media analytics system that processes user interaction data to extract meaningful insights about engagement patterns, user activity levels, and content performance. Built with Java Swing for an intuitive desktop interface, it demonstrates practical applications of data structures, algorithms, and object-oriented design patterns in analyzing large-scale social media datasets.
 
